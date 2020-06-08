@@ -1,5 +1,5 @@
 highlight VertSplit cterm=NONE
-set fillchars+=vert:‚îÇ
+set fillchars+=vert:\▏
 set number
 set hidden
 
